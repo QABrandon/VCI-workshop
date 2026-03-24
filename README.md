@@ -1,3 +1,7 @@
+# VCI Workshop
+
+Meant for Vibe Coding Incubator four-day workshop, March 24–28, 2026, with a bonus day on March 28, 2026.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
